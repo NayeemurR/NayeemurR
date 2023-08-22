@@ -1,9 +1,9 @@
 ![Creative Ideas](https://github.com/NayeemurR/NayeemurR/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Nayeemur</h1>
-<h3 align="center">A passionate engineer actively solving problems</h3>
+<h1>Hi! I'm Nayeemur</h1>
+<h3">You just stumbled upon my page. Welcome, I'm a passionate engineer actively solving problems</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1095060811/thumb/7.jpg?ip=x480">
 
-- 🔭 I’m currently working on [the website for MITech Consulting Club](mitechconsulting.com)
+- 🔭 I’m currently working on a website for <a href="https://mitechconsulting.com">MITech Consulting Club</a>
 
 - 🤝 I’m looking for help with [extinguisher](https://github.com/NayeemurR/extinguisher)
 
