@@ -3,7 +3,7 @@
 <h3">You just stumbled upon my page. Welcome, I'm a passionate engineer actively solving problems</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1095060811/thumb/7.jpg?ip=x480">
 
-- 🔭 I’m currently working on a website for <a href="https://mitechconsulting.com">MITech Consulting Club</a>
+- 🔭 I’m currently working on a website for <a href="https://mitechconsulting.com" target="_blank">MITech Consulting Club</a>
 
 - 🤝 I’m looking for help with [extinguisher](https://github.com/NayeemurR/extinguisher)
 
